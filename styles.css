@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+.wholepage{
+    padding: 20px;
+}
+.container{
+    font-size: 25px;
+    min-height: 300px;
+    width: 100%;
+    background: black;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 2fr repeat (4, 1fr);
+    margin:10px;
+
+    
+    padding-top: 25%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    
+}
+.container, .d{
+    color: white;
+    grid-gap: 10px;
+}
+
+.d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d0, .period{
+    background-color:rgb(75, 75, 75);
+    text-align:center;    
+}
+
+.ac, .plusminus, .percent{
+    background-color:grey;
+    text-align:center;
+}
+
+.divide, .multiply, .subtract, .add, .equal{
+    background-color:orange;
+    text-align:center;
+}
+.d0{
+    grid-column: 1/3;
+}
