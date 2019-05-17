@@ -21,12 +21,12 @@ body{
     padding-bottom: 20px;
     
 }
-.container, .d{
+.container, .one, .two, .three, .four, .five, .six, .seven, .eight, .nine, .zero{
     color: white;
     grid-gap: 10px;
 }
 
-.d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9, .d0, .period{
+.one, .two, .three, .four, .five, .six, .seven, .eight, .nine, .zero, .period{
     background-color:rgb(75, 75, 75);
     text-align:center;    
 }
@@ -40,6 +40,7 @@ body{
     background-color:orange;
     text-align:center;
 }
-.d0{
+.zero{
     grid-column: 1/3;
 }
+
