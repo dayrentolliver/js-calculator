@@ -6,7 +6,10 @@ View site here: https://dayrentolliver.github.io/js-calculator/
 Dayren Tolliver
 
 ### Technologies:
+* HTML
+* CSS
 
 ### How it works:
 
 ### Things I learned:
+* How to use CSS Grid to create a calculator
