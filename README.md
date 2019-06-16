@@ -1,6 +1,6 @@
 # js-calculator
 Created a calculator with JavaScript.
-View site here: https://dayrentolliver.github.io/js-calculator/
+View site here: https://dayrentolliver.com/js-calculator/
 
 ### Author(s):
 Dayren Tolliver
