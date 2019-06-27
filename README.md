@@ -7,7 +7,7 @@ Dayren Tolliver
 
 ### Technologies:
 * HTML
-* CSS
+* CSS Grid
 
 ### How it works:
 
