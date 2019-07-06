@@ -13,7 +13,6 @@ body{
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 2fr repeat (4, 1fr);
     margin:10px;
-
     
     padding-top: 25%;
     padding-right: 15px;
